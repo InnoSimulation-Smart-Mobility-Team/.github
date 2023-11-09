@@ -18,12 +18,14 @@
 
 <div  align="center">
 
+
 사진 | 구성원 | 직책 | 사내 이메일 |
 ---|:---:|---:|---:
 ![image](https://github.com/InnoSimulation-Smart-Mobility-Team/.github/assets/62154896/aed72104-85bb-4c86-ad71-8a47dcc74f25.png) | `신인식` | 프로(팀장) | inshik.shin@innosim.com
-Empty | `김윤구` | 프로(팀원) | ygkim@innosim.com
-Empty | `황인태` | 프로(팀원) | hit@innosim.com
+![익명](https://github.com/InnoSimulation-Smart-Mobility-Team/.github/assets/62154896/67ea6193-2d3a-4257-8c4f-332f1665f08e) | `김윤구` | 프로(팀원) | ygkim@innosim.com
+![익명](https://github.com/InnoSimulation-Smart-Mobility-Team/.github/assets/62154896/67ea6193-2d3a-4257-8c4f-332f1665f08e) | `황인태` | 프로(팀원) | hit@innosim.com
 
+<!-- 127*168 이미지 사이즈로 작업 -->
 </div>
 
 <br>
@@ -32,3 +34,8 @@ Empty | `황인태` | 프로(팀원) | hit@innosim.com
   <h2> 🛑 주의사항 🛑</h2>
   내부 인프라 구축 전까지만 사용할 예정
 </div>
+
+<details>
+  <summary>저작권 표기</summary>
+      <a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a> - 이미지 아이콘
+</details>
